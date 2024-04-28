@@ -35,8 +35,8 @@ The Task Manager App is a simple web application built with React and MongoDB. I
 ![Screenshot 4](screenshots/Screenshot%202024-04-28%20at%2007.50.06.png)
 ![Screenshot 5](screenshots/Screenshot%202024-04-28%20at%2007.50.35.png)
 
-## Contributing
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
+## Contributors
+- [Janice Wambui](https://github.com/janicefoi) - Developer
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
