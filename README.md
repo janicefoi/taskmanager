@@ -15,7 +15,6 @@ The Task Manager App is a simple web application built with React and MongoDB. I
 ## Technologies Used
 - React
 - MongoDB
-- Other relevant technologies
 
 ## Installation
 1. Clone the repository.
